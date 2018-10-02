@@ -1,0 +1,71 @@
+ ul {
+    list-style-type: none;
+    text-align: right;
+  }
+ li {
+    display: inline-block;
+}
+body{
+    background-color: cyan;
+
+}
+h1, #EarlyLife, #Career, h3 {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+img{
+margin-left: 45%;
+height: 10%;
+width: 10%;
+border-radius: 50%;
+}
+.centermain{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+div > p{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: bold;
+}
+#Personal Life{
+    text-align: center;
+    color: blue;
+}
+#Honours{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+.bright{
+    color: red;
+}
+.spl-linka{
+    background-color: darkseagreen;
+    color: azure;
+    text-decoration: none;
+
+}
+.spl-linkb{
+    background-color: coral;
+    color: azure;
+    text-decoration: none;
+}
+#InterestingFacts, #PersonalLife{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+.interesting ol{
+color: blue;
+font-family: cursive;
+list-style: decimal;
+text-align: center;
+}
+iframe{
+   margin-left: 25%;
+}
